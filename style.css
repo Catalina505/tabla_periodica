@@ -1,0 +1,157 @@
+        * {
+            font-family: sans-serif;
+        }
+        
+        .container_1 {
+            display: grid;
+            grid-template-columns: 45px 45px;
+            row-gap: 2px;
+            column-gap: 2px;
+            vertical-align: top;
+            margin-top: 80px;
+            margin-left: 40px;
+        }
+        
+        .box_1 {
+            background-color: rgb(104, 155, 255);
+            padding: 10px;
+            text-align: center;
+            color: rgb(25, 19, 162);
+            font-weight: bold;
+            border: solid 1px black;
+        }
+        
+        .box_13 {
+            background-color: rgb(104, 155, 255);
+            padding: 10px;
+            text-align: center;
+            vertical-align: top;
+            margin-top: -297px;
+            display: inline-block;
+            width: 23px;
+            height: 20px;
+            margin-left: 40px;
+            color: rgb(25, 19, 162);
+            font-weight: bold;
+            border: solid 1px black;
+        }
+        
+        .container_2 {
+            display: grid;
+            grid-template-columns: 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px;
+            row-gap: 2px;
+            column-gap: 2px;
+            margin-left: 160px;
+            vertical-align: top;
+            margin-top: -185px;
+        }
+        
+        .box_2 {
+            background-color: rgb(253, 154, 152);
+            padding: 10px;
+            text-align: center;
+            color: rgb(25, 19, 162);
+            font-weight: bold;
+            border: solid 1px black;
+        }
+        
+        .container_3 {
+            display: grid;
+            grid-template-columns: 45px 45px 45px 45px 45px 45px;
+            row-gap: 2px;
+            column-gap: 2px;
+            margin-left: 630px;
+            vertical-align: top;
+            margin-top: -250px;
+        }
+        
+        .box_3 {
+            background-color: rgb(254, 203, 0);
+            padding: 10px;
+            text-align: center;
+            color: rgb(25, 19, 162);
+            font-weight: bold;
+            border: solid 1px black;
+        }
+        
+        .box_37 {
+            background-color: rgb(254, 203, 0);
+            padding: 10px;
+            text-align: center;
+            vertical-align: top;
+            margin-top: -294px;
+            display: inline-block;
+            width: 23px;
+            height: 20px;
+            margin-left: 865px;
+            color: rgb(25, 19, 162);
+            font-weight: bold;
+            border: solid 1px black;
+        }
+        
+        .container_4 {
+            display: grid;
+            grid-template-columns: 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px;
+            row-gap: 2px;
+            column-gap: 2px;
+            margin-left: 160px;
+            vertical-align: top;
+            margin-top: 5px;
+        }
+        
+        .box_4 {
+            background-color: rgb(31, 202, 33);
+            padding: 10px;
+            text-align: center;
+            color: rgb(25, 19, 162);
+            font-weight: bold;
+            border: solid 1px black;
+        }
+        
+        .grupos_1 {
+            display: grid;
+            row-gap: 5px;
+            margin-top: -450px;
+        }
+        
+        .box_5 {
+            padding: 10px;
+            text-align: center;
+            width: 25px;
+            height: 20px;
+            color: rgb(255, 0, 0);
+            font-size: 12px;
+        }
+        
+        .grupos_2 {
+            display: grid;
+            grid-template-columns: 45px 60px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px;
+            column-gap: 2px;
+            margin-top: -350px;
+            margin-left: 40px;
+        }
+        
+        .box_6 {
+            padding: 10px;
+            text-align: center;
+            width: 25px;
+            height: 20px;
+            color: rgb(255, 0, 0);
+            font-size: 12px;
+        }
+        
+        .grupos_3 {
+            display: grid;
+            row-gap: 5px;
+            margin-top: 325px;
+            margin-left: 30px;
+        }
+        
+        .box_7 {
+            padding: 10px;
+            text-align: left;
+            width: 100px;
+            height: 20px;
+            color: rgb(255, 0, 0);
+            font-size: 12px;
+        }
